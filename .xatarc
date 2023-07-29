@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Sumeet-Kumar-Das-s-workspace-89eiv8.us-east-1.xata.sh/db/pizzeria-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
